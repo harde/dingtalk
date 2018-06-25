@@ -1,0 +1,16 @@
+{
+    "name": "harde/dingtalk",
+    "description": "除非这个描述消失，否则请勿使用。",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "harde",
+            "email": "harde.liu@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
